@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="78" passed="78">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="774319" started-at="2014-08-27T17:23:19Z" finished-at="2014-08-27T17:36:13Z">
+    <groups>
+    </groups>
+    <test name="HomePage.java" duration-ms="38672" started-at="2014-08-27T17:23:19Z" finished-at="2014-08-27T17:23:58Z">
+      <class name="mixpanel.HomePage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="beforeClass" is-config="true" duration-ms="14482" started-at="2014-08-27T10:23:19Z" finished-at="2014-08-27T10:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="C62191b" duration-ms="5228" started-at="2014-08-27T10:23:34Z" finished-at="2014-08-27T10:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="C62191c" duration-ms="5934" started-at="2014-08-27T10:23:39Z" finished-at="2014-08-27T10:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="C62191d" duration-ms="1561" started-at="2014-08-27T10:23:45Z" finished-at="2014-08-27T10:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="C62191e" duration-ms="5381" started-at="2014-08-27T10:23:46Z" finished-at="2014-08-27T10:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="C62191f" duration-ms="5770" started-at="2014-08-27T10:23:52Z" finished-at="2014-08-27T10:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage@2fb02a96]" name="afterClass" is-config="true" duration-ms="299" started-at="2014-08-27T10:23:57Z" finished-at="2014-08-27T10:23:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage -->
+    </test> <!-- HomePage.java -->
+    <test name="HomePage2.java" duration-ms="35196" started-at="2014-08-27T17:23:58Z" finished-at="2014-08-27T17:24:33Z">
+      <class name="mixpanel.HomePage2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="beforeClass" is-config="true" duration-ms="10044" started-at="2014-08-27T10:23:58Z" finished-at="2014-08-27T10:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="C62191b" duration-ms="9221" started-at="2014-08-27T10:24:08Z" finished-at="2014-08-27T10:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="C62191c" duration-ms="1737" started-at="2014-08-27T10:24:17Z" finished-at="2014-08-27T10:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="C62191d" duration-ms="6365" started-at="2014-08-27T10:24:19Z" finished-at="2014-08-27T10:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="C62191e" duration-ms="1754" started-at="2014-08-27T10:24:25Z" finished-at="2014-08-27T10:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="C62191f" duration-ms="5260" started-at="2014-08-27T10:24:27Z" finished-at="2014-08-27T10:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage2@12f2eb18]" name="afterClass" is-config="true" duration-ms="812" started-at="2014-08-27T10:24:32Z" finished-at="2014-08-27T10:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage2 -->
+    </test> <!-- HomePage2.java -->
+    <test name="HomePage3.java" duration-ms="37589" started-at="2014-08-27T17:24:33Z" finished-at="2014-08-27T17:25:11Z">
+      <class name="mixpanel.HomePage3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="beforeClass" is-config="true" duration-ms="12704" started-at="2014-08-27T10:24:33Z" finished-at="2014-08-27T10:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="C62191b" duration-ms="5303" started-at="2014-08-27T10:24:46Z" finished-at="2014-08-27T10:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="C62191c" duration-ms="6027" started-at="2014-08-27T10:24:51Z" finished-at="2014-08-27T10:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="C62191d" duration-ms="1821" started-at="2014-08-27T10:24:57Z" finished-at="2014-08-27T10:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="C62191e" duration-ms="5394" started-at="2014-08-27T10:24:59Z" finished-at="2014-08-27T10:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="C62191f" duration-ms="6068" started-at="2014-08-27T10:25:04Z" finished-at="2014-08-27T10:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage3@63b9e1e7]" name="afterClass" is-config="true" duration-ms="268" started-at="2014-08-27T10:25:10Z" finished-at="2014-08-27T10:25:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage3 -->
+    </test> <!-- HomePage3.java -->
+    <test name="HomePage4.java" duration-ms="46716" started-at="2014-08-27T17:25:11Z" finished-at="2014-08-27T17:25:57Z">
+      <class name="mixpanel.HomePage4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="beforeClass" is-config="true" duration-ms="19172" started-at="2014-08-27T10:25:11Z" finished-at="2014-08-27T10:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="C62191b" duration-ms="5773" started-at="2014-08-27T10:25:30Z" finished-at="2014-08-27T10:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="C62191c" duration-ms="6002" started-at="2014-08-27T10:25:36Z" finished-at="2014-08-27T10:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="C62191d" duration-ms="1525" started-at="2014-08-27T10:25:42Z" finished-at="2014-08-27T10:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="C62191e" duration-ms="5329" started-at="2014-08-27T10:25:43Z" finished-at="2014-08-27T10:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="C62191f" duration-ms="8337" started-at="2014-08-27T10:25:49Z" finished-at="2014-08-27T10:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage4@1858c80c]" name="afterClass" is-config="true" duration-ms="575" started-at="2014-08-27T10:25:57Z" finished-at="2014-08-27T10:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage4 -->
+    </test> <!-- HomePage4.java -->
+    <test name="HomePage5.java" duration-ms="38809" started-at="2014-08-27T17:25:57Z" finished-at="2014-08-27T17:26:36Z">
+      <class name="mixpanel.HomePage5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="beforeClass" is-config="true" duration-ms="12564" started-at="2014-08-27T10:25:57Z" finished-at="2014-08-27T10:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="C62191b" duration-ms="6286" started-at="2014-08-27T10:26:10Z" finished-at="2014-08-27T10:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="C62191c" duration-ms="6178" started-at="2014-08-27T10:26:16Z" finished-at="2014-08-27T10:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="C62191d" duration-ms="1795" started-at="2014-08-27T10:26:23Z" finished-at="2014-08-27T10:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="C62191e" duration-ms="5353" started-at="2014-08-27T10:26:24Z" finished-at="2014-08-27T10:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="C62191f" duration-ms="6361" started-at="2014-08-27T10:26:30Z" finished-at="2014-08-27T10:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage5@ebaa6ba]" name="afterClass" is-config="true" duration-ms="270" started-at="2014-08-27T10:26:36Z" finished-at="2014-08-27T10:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage5 -->
+    </test> <!-- HomePage5.java -->
+    <test name="HomePage6.java" duration-ms="38705" started-at="2014-08-27T17:26:36Z" finished-at="2014-08-27T17:27:15Z">
+      <class name="mixpanel.HomePage6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="beforeClass" is-config="true" duration-ms="13428" started-at="2014-08-27T10:26:36Z" finished-at="2014-08-27T10:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="C62191b" duration-ms="6407" started-at="2014-08-27T10:26:50Z" finished-at="2014-08-27T10:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="C62191c" duration-ms="5704" started-at="2014-08-27T10:26:56Z" finished-at="2014-08-27T10:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="C62191d" duration-ms="1540" started-at="2014-08-27T10:27:02Z" finished-at="2014-08-27T10:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="C62191e" duration-ms="5632" started-at="2014-08-27T10:27:03Z" finished-at="2014-08-27T10:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="C62191f" duration-ms="5460" started-at="2014-08-27T10:27:09Z" finished-at="2014-08-27T10:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage6@144b3c7b]" name="afterClass" is-config="true" duration-ms="531" started-at="2014-08-27T10:27:15Z" finished-at="2014-08-27T10:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage6 -->
+    </test> <!-- HomePage6.java -->
+    <test name="HomePage7.java" duration-ms="43664" started-at="2014-08-27T17:27:15Z" finished-at="2014-08-27T17:27:59Z">
+      <class name="mixpanel.HomePage7">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="beforeClass" is-config="true" duration-ms="18299" started-at="2014-08-27T10:27:15Z" finished-at="2014-08-27T10:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="C62191b" duration-ms="6006" started-at="2014-08-27T10:27:33Z" finished-at="2014-08-27T10:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="C62191c" duration-ms="6233" started-at="2014-08-27T10:27:39Z" finished-at="2014-08-27T10:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="C62191d" duration-ms="1694" started-at="2014-08-27T10:27:46Z" finished-at="2014-08-27T10:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="C62191e" duration-ms="5102" started-at="2014-08-27T10:27:47Z" finished-at="2014-08-27T10:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="C62191f" duration-ms="6031" started-at="2014-08-27T10:27:52Z" finished-at="2014-08-27T10:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage7@6c62aa33]" name="afterClass" is-config="true" duration-ms="297" started-at="2014-08-27T10:27:58Z" finished-at="2014-08-27T10:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage7 -->
+    </test> <!-- HomePage7.java -->
+    <test name="HomePage8.java" duration-ms="38368" started-at="2014-08-27T17:27:59Z" finished-at="2014-08-27T17:28:37Z">
+      <class name="mixpanel.HomePage8">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="beforeClass" is-config="true" duration-ms="12997" started-at="2014-08-27T10:27:59Z" finished-at="2014-08-27T10:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="C62191b" duration-ms="5711" started-at="2014-08-27T10:28:12Z" finished-at="2014-08-27T10:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="C62191c" duration-ms="6645" started-at="2014-08-27T10:28:17Z" finished-at="2014-08-27T10:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="C62191d" duration-ms="1514" started-at="2014-08-27T10:28:24Z" finished-at="2014-08-27T10:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="C62191e" duration-ms="5223" started-at="2014-08-27T10:28:26Z" finished-at="2014-08-27T10:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="C62191f" duration-ms="5768" started-at="2014-08-27T10:28:31Z" finished-at="2014-08-27T10:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage8@37c039d1]" name="afterClass" is-config="true" duration-ms="509" started-at="2014-08-27T10:28:37Z" finished-at="2014-08-27T10:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage8 -->
+    </test> <!-- HomePage8.java -->
+    <test name="HomePage9.java" duration-ms="37584" started-at="2014-08-27T17:28:37Z" finished-at="2014-08-27T17:29:15Z">
+      <class name="mixpanel.HomePage9">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="beforeClass" is-config="true" duration-ms="11728" started-at="2014-08-27T10:28:37Z" finished-at="2014-08-27T10:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="C62191b" duration-ms="9834" started-at="2014-08-27T10:28:49Z" finished-at="2014-08-27T10:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="C62191c" duration-ms="2208" started-at="2014-08-27T10:28:59Z" finished-at="2014-08-27T10:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="C62191d" duration-ms="6395" started-at="2014-08-27T10:29:01Z" finished-at="2014-08-27T10:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="C62191e" duration-ms="1582" started-at="2014-08-27T10:29:07Z" finished-at="2014-08-27T10:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="C62191f" duration-ms="5323" started-at="2014-08-27T10:29:09Z" finished-at="2014-08-27T10:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage9@33f724c7]" name="afterClass" is-config="true" duration-ms="511" started-at="2014-08-27T10:29:14Z" finished-at="2014-08-27T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage9 -->
+    </test> <!-- HomePage9.java -->
+    <test name="HomePage10.java" duration-ms="40526" started-at="2014-08-27T17:29:15Z" finished-at="2014-08-27T17:29:55Z">
+      <class name="mixpanel.HomePage10">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage10@53424146]" name="beforeClass" is-config="true" duration-ms="13314" started-at="2014-08-27T10:29:15Z" finished-at="2014-08-27T10:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage10@53424146]" name="C62191b" duration-ms="5970" started-at="2014-08-27T10:29:28Z" finished-at="2014-08-27T10:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage10@53424146]" name="C62191c" duration-ms="6199" started-at="2014-08-27T10:29:34Z" finished-at="2014-08-27T10:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage10@53424146]" name="C62191d" duration-ms="2322" started-at="2014-08-27T10:29:40Z" finished-at="2014-08-27T10:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage10@53424146]" name="C62191e" duration-ms="5695" started-at="2014-08-27T10:29:43Z" finished-at="2014-08-27T10:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage10@53424146]" name="C62191f" duration-ms="5449" started-at="2014-08-27T10:29:48Z" finished-at="2014-08-27T10:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage10@53424146]" name="afterClass" is-config="true" duration-ms="1575" started-at="2014-08-27T10:29:54Z" finished-at="2014-08-27T10:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage10 -->
+    </test> <!-- HomePage10.java -->
+    <test name="HomePage11.java" duration-ms="39338" started-at="2014-08-27T17:29:55Z" finished-at="2014-08-27T17:30:35Z">
+      <class name="mixpanel.HomePage11">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="beforeClass" is-config="true" duration-ms="14030" started-at="2014-08-27T10:29:55Z" finished-at="2014-08-27T10:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="C62191b" duration-ms="6782" started-at="2014-08-27T10:30:09Z" finished-at="2014-08-27T10:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="C62191c" duration-ms="6027" started-at="2014-08-27T10:30:16Z" finished-at="2014-08-27T10:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="C62191d" duration-ms="1524" started-at="2014-08-27T10:30:22Z" finished-at="2014-08-27T10:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="C62191e" duration-ms="5360" started-at="2014-08-27T10:30:24Z" finished-at="2014-08-27T10:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="C62191f" duration-ms="5345" started-at="2014-08-27T10:30:29Z" finished-at="2014-08-27T10:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage11@6e649f9f]" name="afterClass" is-config="true" duration-ms="266" started-at="2014-08-27T10:30:35Z" finished-at="2014-08-27T10:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage11 -->
+    </test> <!-- HomePage11.java -->
+    <test name="HomePage12.java" duration-ms="34600" started-at="2014-08-27T17:30:35Z" finished-at="2014-08-27T17:31:09Z">
+      <class name="mixpanel.HomePage12">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="beforeClass" is-config="true" duration-ms="10761" started-at="2014-08-27T10:30:35Z" finished-at="2014-08-27T10:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="C62191b" duration-ms="5520" started-at="2014-08-27T10:30:46Z" finished-at="2014-08-27T10:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="C62191c" duration-ms="5508" started-at="2014-08-27T10:30:51Z" finished-at="2014-08-27T10:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="C62191d" duration-ms="1526" started-at="2014-08-27T10:30:57Z" finished-at="2014-08-27T10:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="C62191e" duration-ms="5277" started-at="2014-08-27T10:30:58Z" finished-at="2014-08-27T10:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="C62191f" duration-ms="5742" started-at="2014-08-27T10:31:03Z" finished-at="2014-08-27T10:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage12@52bd62c3]" name="afterClass" is-config="true" duration-ms="263" started-at="2014-08-27T10:31:09Z" finished-at="2014-08-27T10:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage12 -->
+    </test> <!-- HomePage12.java -->
+    <test name="HomePage13.java" duration-ms="15972" started-at="2014-08-27T17:31:09Z" finished-at="2014-08-27T17:31:25Z">
+      <class name="mixpanel.HomePage13">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage13@6046f6e4]" name="beforeClass" is-config="true" duration-ms="10204" started-at="2014-08-27T10:31:09Z" finished-at="2014-08-27T10:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage13@6046f6e4]" name="C62191b" duration-ms="5507" started-at="2014-08-27T10:31:20Z" finished-at="2014-08-27T10:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage13@6046f6e4]" name="afterClass" is-config="true" duration-ms="261" started-at="2014-08-27T10:31:25Z" finished-at="2014-08-27T10:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage13 -->
+    </test> <!-- HomePage13.java -->
+    <test name="HomePage14.java" duration-ms="21602" started-at="2014-08-27T17:31:25Z" finished-at="2014-08-27T17:31:47Z">
+      <class name="mixpanel.HomePage14">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage14@47ce4a29]" name="beforeClass" is-config="true" duration-ms="9704" started-at="2014-08-27T10:31:25Z" finished-at="2014-08-27T10:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage14@47ce4a29]" name="C62191c" duration-ms="10400" started-at="2014-08-27T10:31:35Z" finished-at="2014-08-27T10:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage14@47ce4a29]" name="afterClass" is-config="true" duration-ms="1497" started-at="2014-08-27T10:31:46Z" finished-at="2014-08-27T10:31:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage14 -->
+    </test> <!-- HomePage14.java -->
+    <test name="HomePage15.java" duration-ms="21083" started-at="2014-08-27T17:31:47Z" finished-at="2014-08-27T17:32:08Z">
+      <class name="mixpanel.HomePage15">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage15@6f5f1a42]" name="beforeClass" is-config="true" duration-ms="13500" started-at="2014-08-27T10:31:47Z" finished-at="2014-08-27T10:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage15@6f5f1a42]" name="C62191d" duration-ms="6182" started-at="2014-08-27T10:32:01Z" finished-at="2014-08-27T10:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage15@6f5f1a42]" name="afterClass" is-config="true" duration-ms="1400" started-at="2014-08-27T10:32:07Z" finished-at="2014-08-27T10:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage15 -->
+    </test> <!-- HomePage15.java -->
+    <test name="HomePage16.java" duration-ms="25639" started-at="2014-08-27T17:32:08Z" finished-at="2014-08-27T17:32:34Z">
+      <class name="mixpanel.HomePage16">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage16@4d560eeb]" name="beforeClass" is-config="true" duration-ms="14755" started-at="2014-08-27T10:32:08Z" finished-at="2014-08-27T10:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage16@4d560eeb]" name="C62191e" duration-ms="10351" started-at="2014-08-27T10:32:23Z" finished-at="2014-08-27T10:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage16@4d560eeb]" name="afterClass" is-config="true" duration-ms="533" started-at="2014-08-27T10:32:33Z" finished-at="2014-08-27T10:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage16 -->
+    </test> <!-- HomePage16.java -->
+    <test name="HomePage17.java" duration-ms="25618" started-at="2014-08-27T17:32:34Z" finished-at="2014-08-27T17:33:00Z">
+      <class name="mixpanel.HomePage17">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage17@4d1d54a5]" name="beforeClass" is-config="true" duration-ms="14217" started-at="2014-08-27T10:32:34Z" finished-at="2014-08-27T10:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage17@4d1d54a5]" name="C62191f" duration-ms="10802" started-at="2014-08-27T10:32:48Z" finished-at="2014-08-27T10:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage17@4d1d54a5]" name="afterClass" is-config="true" duration-ms="599" started-at="2014-08-27T10:32:59Z" finished-at="2014-08-27T10:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage17 -->
+    </test> <!-- HomePage17.java -->
+    <test name="HomePage18.java" duration-ms="24858" started-at="2014-08-27T17:33:00Z" finished-at="2014-08-27T17:33:25Z">
+      <class name="mixpanel.HomePage18">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage18@5e8caa63]" name="beforeClass" is-config="true" duration-ms="13294" started-at="2014-08-27T10:33:00Z" finished-at="2014-08-27T10:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage18@5e8caa63]" name="C62191f" duration-ms="10778" started-at="2014-08-27T10:33:13Z" finished-at="2014-08-27T10:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage18@5e8caa63]" name="afterClass" is-config="true" duration-ms="786" started-at="2014-08-27T10:33:24Z" finished-at="2014-08-27T10:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage18 -->
+    </test> <!-- HomePage18.java -->
+    <test name="HomePage19.java" duration-ms="25029" started-at="2014-08-27T17:33:25Z" finished-at="2014-08-27T17:33:50Z">
+      <class name="mixpanel.HomePage19">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage19@77946086]" name="beforeClass" is-config="true" duration-ms="14290" started-at="2014-08-27T10:33:25Z" finished-at="2014-08-27T10:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage19@77946086]" name="C62191b" duration-ms="10412" started-at="2014-08-27T10:33:39Z" finished-at="2014-08-27T10:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage19@77946086]" name="afterClass" is-config="true" duration-ms="327" started-at="2014-08-27T10:33:50Z" finished-at="2014-08-27T10:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage19 -->
+    </test> <!-- HomePage19.java -->
+    <test name="HomePage20.java" duration-ms="17543" started-at="2014-08-27T17:33:50Z" finished-at="2014-08-27T17:34:07Z">
+      <class name="mixpanel.HomePage20">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage20@3ef9ead4]" name="beforeClass" is-config="true" duration-ms="10505" started-at="2014-08-27T10:33:50Z" finished-at="2014-08-27T10:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage20@3ef9ead4]" name="C62191c" duration-ms="6750" started-at="2014-08-27T10:34:00Z" finished-at="2014-08-27T10:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage20@3ef9ead4]" name="afterClass" is-config="true" duration-ms="288" started-at="2014-08-27T10:34:07Z" finished-at="2014-08-27T10:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage20 -->
+    </test> <!-- HomePage20.java -->
+    <test name="HomePage21.java" duration-ms="20209" started-at="2014-08-27T17:34:07Z" finished-at="2014-08-27T17:34:28Z">
+      <class name="mixpanel.HomePage21">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage21@543a2dec]" name="beforeClass" is-config="true" duration-ms="9879" started-at="2014-08-27T10:34:07Z" finished-at="2014-08-27T10:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage21@543a2dec]" name="C62191d" duration-ms="9721" started-at="2014-08-27T10:34:17Z" finished-at="2014-08-27T10:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage21@543a2dec]" name="afterClass" is-config="true" duration-ms="608" started-at="2014-08-27T10:34:27Z" finished-at="2014-08-27T10:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage21 -->
+    </test> <!-- HomePage21.java -->
+    <test name="HomePage22.java" duration-ms="20281" started-at="2014-08-27T17:34:28Z" finished-at="2014-08-27T17:34:48Z">
+      <class name="mixpanel.HomePage22">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage22@4822098b]" name="beforeClass" is-config="true" duration-ms="11301" started-at="2014-08-27T10:34:28Z" finished-at="2014-08-27T10:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage22@4822098b]" name="C62191f" duration-ms="8714" started-at="2014-08-27T10:34:39Z" finished-at="2014-08-27T10:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage22@4822098b]" name="afterClass" is-config="true" duration-ms="266" started-at="2014-08-27T10:34:48Z" finished-at="2014-08-27T10:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage22 -->
+    </test> <!-- HomePage22.java -->
+    <test name="HomePage23.java" duration-ms="23542" started-at="2014-08-27T17:34:48Z" finished-at="2014-08-27T17:35:12Z">
+      <class name="mixpanel.HomePage23">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage23@331ee18e]" name="beforeClass" is-config="true" duration-ms="11598" started-at="2014-08-27T10:34:48Z" finished-at="2014-08-27T10:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage23@331ee18e]" name="C62191d" duration-ms="10061" started-at="2014-08-27T10:35:00Z" finished-at="2014-08-27T10:35:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage23@331ee18e]" name="C62191e" duration-ms="1527" started-at="2014-08-27T10:35:10Z" finished-at="2014-08-27T10:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage23@331ee18e]" name="afterClass" is-config="true" duration-ms="354" started-at="2014-08-27T10:35:11Z" finished-at="2014-08-27T10:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage23 -->
+    </test> <!-- HomePage23.java -->
+    <test name="HomePage24.java" duration-ms="20422" started-at="2014-08-27T17:35:12Z" finished-at="2014-08-27T17:35:32Z">
+      <class name="mixpanel.HomePage24">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage24@158bea4]" name="beforeClass" is-config="true" duration-ms="11208" started-at="2014-08-27T10:35:12Z" finished-at="2014-08-27T10:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage24@158bea4]" name="C62191e" duration-ms="8951" started-at="2014-08-27T10:35:23Z" finished-at="2014-08-27T10:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage24@158bea4]" name="afterClass" is-config="true" duration-ms="261" started-at="2014-08-27T10:35:32Z" finished-at="2014-08-27T10:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage24 -->
+    </test> <!-- HomePage24.java -->
+    <test name="HomePage25.java" duration-ms="41308" started-at="2014-08-27T17:35:32Z" finished-at="2014-08-27T17:36:13Z">
+      <class name="mixpanel.HomePage25">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="beforeClass" is-config="true" duration-ms="10171" started-at="2014-08-27T10:35:32Z" finished-at="2014-08-27T10:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="C62191b()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="C62191b" duration-ms="5562" started-at="2014-08-27T10:35:42Z" finished-at="2014-08-27T10:35:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191b -->
+        <test-method status="PASS" signature="C62191c()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="C62191c" duration-ms="6622" started-at="2014-08-27T10:35:48Z" finished-at="2014-08-27T10:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191c -->
+        <test-method status="PASS" signature="C62191d()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="C62191d" duration-ms="1570" started-at="2014-08-27T10:35:54Z" finished-at="2014-08-27T10:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191d -->
+        <test-method status="PASS" signature="C62191e()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="C62191e" duration-ms="5206" started-at="2014-08-27T10:35:56Z" finished-at="2014-08-27T10:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191e -->
+        <test-method status="PASS" signature="C62191f()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="C62191f" duration-ms="11906" started-at="2014-08-27T10:36:01Z" finished-at="2014-08-27T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C62191f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mixpanel.HomePage25@6de40a47]" name="afterClass" is-config="true" duration-ms="271" started-at="2014-08-27T10:36:13Z" finished-at="2014-08-27T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mixpanel.HomePage25 -->
+    </test> <!-- HomePage25.java -->
+  </suite> <!-- Suite -->
+</testng-results>

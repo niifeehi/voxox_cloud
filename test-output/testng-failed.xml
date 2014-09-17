@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="HomePage.java(failed)">
+    <classes>
+      <class name="mixpanel.HomePage15">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage15 -->
+      <class name="mixpanel.HomePage20">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage20 -->
+      <class name="mixpanel.HomePage23">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage23 -->
+      <class name="mixpanel.HomePage12">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage12 -->
+      <class name="mixpanel.HomePage22">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage22 -->
+      <class name="mixpanel.HomePage6">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage6 -->
+      <class name="mixpanel.HomePage7">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage7 -->
+      <class name="mixpanel.HomePage8">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage8 -->
+      <class name="mixpanel.HomePage21">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage21 -->
+      <class name="mixpanel.HomePage5">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage5 -->
+      <class name="mixpanel.HomePage13">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage13 -->
+      <class name="mixpanel.HomePage2">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage2 -->
+      <class name="mixpanel.HomePage19">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage19 -->
+      <class name="mixpanel.HomePage25">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage25 -->
+      <class name="mixpanel.HomePage9">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage9 -->
+      <class name="mixpanel.HomePage10">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage10 -->
+      <class name="mixpanel.HomePage16">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage16 -->
+      <class name="mixpanel.HomePage17">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage17 -->
+      <class name="mixpanel.HomePage4">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage4 -->
+      <class name="mixpanel.HomePage18">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage18 -->
+      <class name="mixpanel.HomePage">
+        <methods>
+          <include name="C62191e"/>
+          <include name="beforeClass"/>
+          <include name="C62191f"/>
+          <include name="C62191c"/>
+          <include name="C62191d"/>
+          <include name="afterClass"/>
+          <include name="C62191b"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage -->
+      <class name="mixpanel.HomePage3">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage3 -->
+      <class name="mixpanel.HomePage11">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage11 -->
+      <class name="mixpanel.HomePage14">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage14 -->
+      <class name="mixpanel.HomePage24">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage24 -->
+    </classes>
+  </test> <!-- HomePage.java(failed) -->
+  <test name="HomePage4.java(failed)">
+    <classes>
+      <class name="mixpanel.HomePage15">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage15 -->
+      <class name="mixpanel.HomePage20">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage20 -->
+      <class name="mixpanel.HomePage23">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage23 -->
+      <class name="mixpanel.HomePage12">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage12 -->
+      <class name="mixpanel.HomePage22">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage22 -->
+      <class name="mixpanel.HomePage6">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage6 -->
+      <class name="mixpanel.HomePage7">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage7 -->
+      <class name="mixpanel.HomePage8">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage8 -->
+      <class name="mixpanel.HomePage21">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage21 -->
+      <class name="mixpanel.HomePage5">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage5 -->
+      <class name="mixpanel.HomePage13">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage13 -->
+      <class name="mixpanel.HomePage2">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage2 -->
+      <class name="mixpanel.HomePage19">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage19 -->
+      <class name="mixpanel.HomePage25">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage25 -->
+      <class name="mixpanel.HomePage9">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage9 -->
+      <class name="mixpanel.HomePage10">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage10 -->
+      <class name="mixpanel.HomePage16">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage16 -->
+      <class name="mixpanel.HomePage17">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage17 -->
+      <class name="mixpanel.HomePage4">
+        <methods>
+          <include name="C62191e"/>
+          <include name="C62191f"/>
+          <include name="C62191b"/>
+          <include name="afterClass"/>
+          <include name="C62191c"/>
+          <include name="C62191d"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage4 -->
+      <class name="mixpanel.HomePage18">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage18 -->
+      <class name="mixpanel.HomePage3">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage3 -->
+      <class name="mixpanel.HomePage">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage -->
+      <class name="mixpanel.HomePage11">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage11 -->
+      <class name="mixpanel.HomePage14">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage14 -->
+      <class name="mixpanel.HomePage24">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- mixpanel.HomePage24 -->
+    </classes>
+  </test> <!-- HomePage4.java(failed) -->
+</suite> <!-- Failed suite [Suite] -->

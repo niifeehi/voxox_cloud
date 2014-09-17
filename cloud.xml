@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+
+  
+  <test name="HomePage.java">
+    <classes>
+      <class name="mixpanel.HomePage"/>
+    </classes>
+  </test> 
+  
+    
+  <test name="HomePage2.java">
+    <classes>
+      <class name="mixpanel.HomePage2"/>
+    </classes>
+  </test> 
+  
+  
+    
+  <test name="HomePage3.java">
+    <classes>
+      <class name="mixpanel.HomePage3"/>
+    </classes>
+  </test> 
+  
+    <test name="HomePage4.java">
+    <classes>
+      <class name="mixpanel.HomePage4"/>
+    </classes>
+  </test> 
+  
+    <test name="HomePage5.java">
+    <classes>
+      <class name="mixpanel.HomePage5"/>
+    </classes>
+  </test> 
+  
+  
+    <test name="HomePage6.java">
+    <classes>
+      <class name="mixpanel.HomePage6"/>
+    </classes>
+  </test> 
+  
+    <test name="HomePage7.java">
+    <classes>
+      <class name="mixpanel.HomePage7"/>
+    </classes>
+  </test> 
+  
+      <test name="HomePage8.java">
+    <classes>
+      <class name="mixpanel.HomePage8"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage9.java">
+    <classes>
+      <class name="mixpanel.HomePage9"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage10.java">
+    <classes>
+      <class name="mixpanel.HomePage10"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage11.java">
+    <classes>
+      <class name="mixpanel.HomePage11"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage12.java">
+    <classes>
+      <class name="mixpanel.HomePage12"/>
+    </classes>
+  </test> 
+  
+  
+      <test name="HomePage13.java">
+    <classes>
+      <class name="mixpanel.HomePage13"/>
+    </classes>
+  </test> 
+  
+      <test name="HomePage14.java">
+    <classes>
+      <class name="mixpanel.HomePage14"/>
+    </classes>
+  </test> 
+  
+      <test name="HomePage15.java">
+    <classes>
+      <class name="mixpanel.HomePage15"/>
+    </classes>
+  </test> 
+  
+      <test name="HomePage16.java">
+    <classes>
+      <class name="mixpanel.HomePage16"/>
+    </classes>
+  </test> 
+  
+  
+      <test name="HomePage17.java">
+    <classes>
+      <class name="mixpanel.HomePage17"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage18.java">
+    <classes>
+      <class name="mixpanel.HomePage18"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage19.java">
+    <classes>
+      <class name="mixpanel.HomePage19"/>
+    </classes>
+  </test> 
+  
+          <test name="HomePage20.java">
+    <classes>
+      <class name="mixpanel.HomePage20"/>
+    </classes>
+  </test> 
+  
+          <test name="HomePage21.java">
+    <classes>
+      <class name="mixpanel.HomePage21"/>
+    </classes>
+  </test> 
+  
+          <test name="HomePage22.java">
+    <classes>
+      <class name="mixpanel.HomePage22"/>
+    </classes>
+  </test> 
+  
+        <test name="HomePage23.java">
+    <classes>
+      <class name="mixpanel.HomePage23"/>
+    </classes>
+  </test> 
+  
+          <test name="HomePage24.java">
+    <classes>
+      <class name="mixpanel.HomePage24"/>
+    </classes>
+  </test> 
+  
+   <test name="HomePage25.java">
+    <classes>
+      <class name="mixpanel.HomePage25"/>
+    </classes>
+  </test> 
+  
+</suite> <!-- Suite -->
+
